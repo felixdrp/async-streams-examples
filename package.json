@@ -1,0 +1,32 @@
+{
+  "name": "async-streams-examples",
+  "version": "1.0.0",
+  "description": "Learn async streams by examples.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/.bin/tap -Rspec test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixdrp/async-streams-examples.git"
+  },
+  "keywords": [
+    "observables",
+    "generators",
+    "async"
+  ],
+  "author": "felixdrp",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/felixdrp/async-streams-examples/issues"
+  },
+  "homepage": "https://github.com/felixdrp/async-streams-examples#readme",
+  "dependencies": {
+    "request": "^2.88.0",
+    "rxjs": "^6.2.2"
+  },
+  "devDependencies": {
+    "should": "^13.2.3",
+    "tap": "^12.0.1"
+  }
+}

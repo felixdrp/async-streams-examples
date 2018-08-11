@@ -19,8 +19,10 @@ Learn async streams by examples.
 
 # Examples
 
-## Group burst of data that have an time interval in between.
+## Group burst of data that have a time interval in between.
 
 Thanks [https://stackoverflow.com/a/49774144](https://stackoverflow.com/a/49774144)
 
 ....abcd.....efg.....hij.... => ['abcd', 'efg', 'hij']
+
+[Example code](https://github.com/felixdrp/async-streams-examples/blob/8680deb6c927db2574e53fa2783eae1d1787e619/test/test.js#L14)

@@ -17,6 +17,14 @@ Learn async streams by examples.
 
 [for-await-of and synchronous iterables](http://2ality.com/2017/12/for-await-of-sync-iterables.html)
 
+[A General Theory of Reactivity](https://github.com/kriskowal/gtor)
+
+# Videos
+
+[Jafar Husain: Async Programming in ES7 | JSConf US 2015](https://youtu.be/lil4YCCXRYc)
+
+[Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond!-Matthew Podwysocki](https://youtu.be/yEeDbHvg1vQ)
+
 # Examples
 
 ## Group burst of data that have a time interval in between.

@@ -152,12 +152,8 @@ describe('Example:', () => {
           endTest(true)
         }
       });
-      let dif = 0
-      let datenow
+
       for await (const x of stream(dataStream, timelapseDataStream)) {
-        datenow = Date.now()
-        console.log(datenow - dif)
-        dif = datenow
         stdoutBufferNext(x)
       }
       // Await until last group is received and processed by the observable.

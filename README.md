@@ -33,4 +33,10 @@ Thanks [https://stackoverflow.com/a/49774144](https://stackoverflow.com/a/497741
 
 ....abcd.....efg.....hij.... => ['abcd', 'efg', 'hij']
 
-[Example code](https://github.com/felixdrp/async-streams-examples/blob/8680deb6c927db2574e53fa2783eae1d1787e619/test/test.js#L14)
+[Example code](async-streams-examples/test/test.js#L14)
+
+## Group burst of data that has a text at the beginning and an idle time interval at the end.
+
+....abcd.....efg.....hij.... => ['abcd', 'efg']
+
+[Example code](async-streams-examples/test/test.js#L94)

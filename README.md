@@ -25,6 +25,8 @@ Learn async streams by examples.
 
 [Reactive Programming, changing the world at Netflix, Microsoft, Slack and beyond!-Matthew Podwysocki](https://youtu.be/yEeDbHvg1vQ)
 
+[You will learn RxJS at ng-europe 2016](https://www.youtube.com/watch?v=uQ1zhJHclvs)
+
 # Examples
 
 ## Group burst of data that have a time interval in between.

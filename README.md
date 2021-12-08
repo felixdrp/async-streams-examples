@@ -30,15 +30,14 @@ Learn async streams by examples.
 # Examples
 
 ## Group burst of data that have a time interval in between.
-
-Thanks [https://stackoverflow.com/a/49774144](https://stackoverflow.com/a/49774144)
+[Example code](test/test.js#L14)
 
 ....abcd.....efg.....hij.... => ['abcd', 'efg', 'hij']
 
-[Example code](async-streams-examples/test/test.js#L14)
+Thanks [https://stackoverflow.com/a/49774144](https://stackoverflow.com/a/49774144)
 
 ## Group burst of data that has a text at the beginning and an idle time interval at the end.
+[Example code](test/test.js#L94)
 
 ....abcd.....efg.....hij.... => ['abcd', 'efg']
 
-[Example code](async-streams-examples/test/test.js#L94)

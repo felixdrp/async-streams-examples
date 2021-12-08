@@ -1,7 +1,23 @@
 # async-streams-examples
 Learn async streams by examples.
 
+# JS Modules
+
+## callbag
+A standard for JS callbacks that enables lightweight observables and iterables
+[callbag](https://github.com/callbag/callbag)
+
+## rxjs
+Asynchronous programming with observable streams
+[rxjs](https://github.com/ReactiveX/rxjs)
+
 # Some doc
+
+[observable](https://reactivex.io/documentation/observable.html)
+
+[rxjs observable guide](https://rxjs.dev/guide/observable)
+
+[rxmarbles.com](https://rxmarbles.com/)
 
 [ECMAScript Observable](https://github.com/tc39/proposal-observable)
 
@@ -18,6 +34,8 @@ Learn async streams by examples.
 [for-await-of and synchronous iterables](http://2ality.com/2017/12/for-await-of-sync-iterables.html)
 
 [A General Theory of Reactivity](https://github.com/kriskowal/gtor)
+
+[Understanding Marble Diagrams for Reactive Streams](https://medium.com/@jshvarts/read-marble-diagrams-like-a-pro-3d72934d3ef5)
 
 # Videos
 
